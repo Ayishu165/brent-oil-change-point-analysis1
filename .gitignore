@@ -3,3 +3,23 @@ data/
 pymc_venv/
 model/
 node_modules/
+# Python
+*.pyc
+__pycache__/
+.env
+.venv/
+*.pkl
+*.h5
+*.nc
+
+# Node
+node_modules/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
